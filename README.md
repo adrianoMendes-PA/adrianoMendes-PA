@@ -21,15 +21,18 @@
     <a href="https://reactjs.org/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="30" height="30" /> </a> &nbsp;
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+        alt="typescript" width="30" height="30" /> </a> &nbsp;
     <a href="https://nodejs.org" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
             alt="nodejs" width="30" height="30" /> </a> &nbsp;
     <a href="https://expressjs.com" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"
             alt="express" width="30" height="30" /> </a> &nbsp;
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-        alt="typescript" width="30" height="30" /> </a> &nbsp;
+    <a href="https://yarnpkg.com/" target="_blank"> <img
+        src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg"
+        alt="yarn" width="30" height="30" /> </a> &nbsp;
     <a href="https://www.docker.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"
             alt="docker" width="30" height="30" /> </a> &nbsp;
