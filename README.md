@@ -16,6 +16,12 @@
     <a href="https://linuxmint.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"
             alt="linux" width="30" height="30" /> </a>&nbsp;
+    <a href="https://linuxmint.com/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/mint/mint-icon.svg"
+            alt="linux-mint" width="30" height="30" /> </a>&nbsp;
+     <a href="https://linuxmint.com/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+            alt="bash_shell" width="30" height="30" /> </a>&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="30" height="30" /> </a> &nbsp;
@@ -46,6 +52,9 @@
      <a href="https://www.mysql.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"
             alt="mysql" width="30" height="30" /> </a> &nbsp;
+         <a href="https://www.mongodb.com/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
+            alt="mongo-db" width="30" height="30" /> </a> &nbsp;
     <a href="https://git-scm.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
             alt="git" width="30" height="30" /> </a>&nbsp;
