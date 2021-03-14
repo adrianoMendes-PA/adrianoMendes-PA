@@ -1,5 +1,6 @@
-<h1 align="center">Olá 👋, eu sou o Adriano</h1>
-
+<h1 align="center">Olá 👋, eu sou o Adriano Mendes</h1>
+<h3 align="center">Melhor professor, o fracasso é.</h3>
+<h4 align="center">Mestre Yoda</h4>
 - 🌱 Atualmente estou estudando **Node, JavaScript, ReactJS, React Native, Postgree SQL, TypeScript**
 
 - 💬 Pergunte-me sobre **React, Dream Theater, Bateria**
@@ -69,4 +70,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianoMendes-PA&show_icons=true&locale=en"
         alt="martthus" />
 </p></br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianoMendes-PA&theme=dark" alt="martthus" /></p>
 
