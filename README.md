@@ -13,21 +13,18 @@
     <a href="https://reactjs.org/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="30" height="30" /> </a> &nbsp;
-    <a href="https://https://reactnative.dev//" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="30" height="30" /> </a> &nbsp;
-    <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"
-            alt="bootstrap" width="30" height="30" /> </a> &nbsp;
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="30" height="30" /> </a> &nbsp;
     <a href="https://www.docker.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"
             alt="docker" width="30" height="30" /> </a> &nbsp;
     <a href="https://expressjs.com" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"
             alt="express" width="30" height="30" /> </a> &nbsp;
+    <a href="https://getbootstrap.com" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"
+            alt="bootstrap" width="30" height="30" /> </a> &nbsp;
+    <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="css3" width="30" height="30" /> </a> &nbsp;    
     <a href="https://git-scm.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /> </a>
     &nbsp;
@@ -44,7 +41,7 @@
             src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"
             alt="mysql" width="30" height="30" /> </a> &nbsp;
     <a href="https://nodejs.org" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"
+            src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
             alt="nodejs" width="30" height="30" /> </a> &nbsp;
     <a href="https://www.postgresql.org" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"
