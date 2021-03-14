@@ -11,7 +11,7 @@
 <a href="https://twitter.com/AdrianoLMendes2" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="https://twitter.com/AdrianoLMendes2" height="40" width="50" /></a>
 <a href="https://t.me/AdrianoaMendes" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="https://t.me/AdrianoaMendes" height="40" width="50" /></a>
 </p>
-<h3 align="left">Linguagens e Ferramentas:</h3>
+<h3 align="left">Linguagens, ferramentas e SO:</h3>
 <p align="left">
     <a href="https://linuxmint.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"
