@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou o Adriano Mendes</h1>
 
 
-- 🌱 Atualmente estou estudando **Node, JavaScript, ReactJS, React Native, Postgree SQL, TypeScript**
+- 🌱 Atualmente estou estudando **JavaScript, Node, ReactJS, React Native, TypeScript, Postgree SQL**
 
 - 💬 Pergunte-me sobre **React, Dream Theater, Bateria**
 
