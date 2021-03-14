@@ -1,6 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Adriano Mendes</h1>
-<h3 align="center">Melhor professor, o fracasso é.</h3>
-<h4 align="center">Mestre Yoda</h4>
+
 
 - 🌱 Atualmente estou estudando **Node, JavaScript, ReactJS, React Native, Postgree SQL, TypeScript**
 
