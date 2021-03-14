@@ -19,6 +19,9 @@
      <a href="https://linuxmint.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
             alt="bash_shell" width="30" height="30" /> </a>&nbsp;
+    <a href="https://code.visualstudio.com/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"
+            alt="vs-code" width="30" height="30" /> </a>&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="30" height="30" /> </a> &nbsp;
