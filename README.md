@@ -16,9 +16,6 @@
     <a href="https://linuxmint.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"
             alt="linux" width="30" height="30" /> </a>&nbsp;
-    <a href="https://linuxmint.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/mint/mint-icon.svg"
-            alt="linux-mint" width="30" height="30" /> </a>&nbsp;
      <a href="https://linuxmint.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
             alt="bash_shell" width="30" height="30" /> </a>&nbsp;
