@@ -41,10 +41,10 @@
             src="https://www.vectorlogo.zone/logos/github/github-icon.svg"
             alt="git-hub" width="30" height="30" /> </a>&nbsp;
     <a href="https://linuxmint.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/github/github-icon.svg"
+            src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"
             alt="linux" width="30" height="30" /> </a>&nbsp;
     <a href="https://getbootstrap.com" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"
+            src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"
             alt="bootstrap" width="30" height="30" /> </a> &nbsp;
     <a href="https://www.w3schools.com/css/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
