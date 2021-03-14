@@ -13,6 +13,9 @@
     <a href="https://reactjs.org/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="30" height="30" /> </a> &nbsp;
+    <a href="https://https://reactnative.dev//" target="_blank"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            alt="react" width="30" height="30" /> </a> &nbsp;
     <a href="https://getbootstrap.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="30" height="30" /> </a> &nbsp;
@@ -20,7 +23,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="30" height="30" /> </a> &nbsp;
     <a href="https://www.docker.com/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+            src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"
             alt="docker" width="30" height="30" /> </a> &nbsp;
     <a href="https://expressjs.com" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
