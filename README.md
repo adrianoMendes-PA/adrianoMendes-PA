@@ -44,3 +44,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="30" height="30" /> </a> &nbsp;
 </p></br>
+
+<p><img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianoMendes-PA&show_icons=true&locale=en&layout=compact"
+        alt="martthus" /></p></br>
+<p>&nbsp;
