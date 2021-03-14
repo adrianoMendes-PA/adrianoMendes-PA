@@ -17,7 +17,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="30" height="30" /> </a> &nbsp;
     <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"
+        <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"
             alt="bootstrap" width="30" height="30" /> </a> &nbsp;
     <a href="https://www.w3schools.com/css/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
