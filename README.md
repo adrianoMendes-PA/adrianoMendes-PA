@@ -41,13 +41,13 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="30" height="30" /> </a> &nbsp;
     <a href="https://www.mysql.com/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+            src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"
             alt="mysql" width="30" height="30" /> </a> &nbsp;
     <a href="https://nodejs.org" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+            src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"
             alt="nodejs" width="30" height="30" /> </a> &nbsp;
     <a href="https://www.postgresql.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"
             alt="postgresql" width="30" height="30" /> </a> &nbsp;
     <a href="https://www.typescriptlang.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
