@@ -8,6 +8,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/adriano-mendes-913b19167/" target="_blank"><img align="center" src="https://api.iconify.design/ri:linkedin-box-fill.svg?color=blue" alt="https://www.linkedin.com/in/matheus-m-candido/" height="40" width="50" /></a>
 <a href="https://twitter.com/AdrianoLMendes2" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="https://twitter.com/AdrianoLMendes2" height="40" width="50" /></a>
+<a href="https://web.telegram.org/#/im" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="https://web.telegram.org/#/im" height="40" width="50" /></a>
 </p>
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
