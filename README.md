@@ -19,36 +19,36 @@
     <a href="https://expressjs.com" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"
             alt="express" width="30" height="30" /> </a> &nbsp;
-    <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"
-            alt="bootstrap" width="30" height="30" /> </a> &nbsp;
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="30" height="30" /> </a> &nbsp;    
-    <a href="https://git-scm.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /> </a>
-    &nbsp;
-    <a href="https://github.com/adrianoMendes-PA" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="git" width="30" height="30" /> </a>
-    &nbsp;
-    <a href="https://www.w3.org/html/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="30" height="30" /> </a> &nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="30" height="30" /> </a> &nbsp;
+    <a href="https://getbootstrap.com" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"
+            alt="bootstrap" width="30" height="30" /> </a> &nbsp;
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="css3" width="30" height="30" /> </a> &nbsp;    
+    <a href="https://git-scm.com/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+            alt="git" width="30" height="30" /> </a>&nbsp;
+    <a href="https://github.com/adrianoMendes-PA" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/github/github-icon.svg"
+            alt="git" width="30" height="30" /> </a>&nbsp;
+    <a href="https://www.w3.org/html/" target="_blank"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            alt="html5" width="30" height="30" /> </a> &nbsp;
     <a href="https://www.mysql.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"
             alt="mysql" width="30" height="30" /> </a> &nbsp;
     <a href="https://nodejs.org" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
             alt="nodejs" width="30" height="30" /> </a> &nbsp;
-    <a href="https://www.postgresql.org" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"
+    <a href="https://www.postgresql.org" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"
             alt="postgresql" width="30" height="30" /> </a> &nbsp;
-    <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="30" height="30" /> </a> &nbsp;
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+        alt="typescript" width="30" height="30" /> </a> &nbsp;
 </p></br>
 
 <p><img align="center"
