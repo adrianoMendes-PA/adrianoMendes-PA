@@ -7,9 +7,13 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/adriano-mendes-913b19167/" target="_blank"><img align="center" src="https://api.iconify.design/ri:linkedin-box-fill.svg?color=blue" alt="https://www.linkedin.com/in/matheus-m-candido/" height="40" width="50" /></a>
+<a href="https://twitter.com/AdrianoLMendes2" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="https://twitter.com/AdrianoLMendes2" height="40" width="50" /></a>
 </p>
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
+    <a href="https://linuxmint.com/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"
+            alt="linux" width="30" height="30" /> </a>&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="30" height="30" /> </a> &nbsp;
@@ -40,9 +44,6 @@
     <a href="https://github.com/adrianoMendes-PA" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/github/github-icon.svg"
             alt="git-hub" width="30" height="30" /> </a>&nbsp;
-    <a href="https://linuxmint.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"
-            alt="linux" width="30" height="30" /> </a>&nbsp;
     <a href="https://getbootstrap.com" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"
             alt="bootstrap" width="30" height="30" /> </a> &nbsp;
