@@ -33,6 +33,9 @@
     <a href="https://yarnpkg.com/" target="_blank"> <img
         src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg"
         alt="yarn" width="30" height="30" /> </a> &nbsp;
+       <a href="https://www.npmjs.com/" target="_blank"> <img
+        src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"
+        alt="npm" width="30" height="30" /> </a> &nbsp;
     <a href="https://www.docker.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"
             alt="docker" width="30" height="30" /> </a> &nbsp;
