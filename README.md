@@ -79,6 +79,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianoMendes-PA&show_icons=true&locale=en"
         alt="martthus" />
 </p></br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianoMendes-PA&theme=dark" alt="martthus" /></p>
-
